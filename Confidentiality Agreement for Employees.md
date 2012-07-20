@@ -130,6 +130,7 @@ Signature of Employee:  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 Print Name of Employee:  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
 Date:  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  
+
 **EXHIBIT B**
 
 [Section 2870 of the California Labor Code is as follows:
@@ -140,9 +141,7 @@ Date:  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 >>(2) Result from any work performed by the employee for the employer.
 
->(b) To the extent a provision in an employment agreement purports to require an employee to assign an invention otherwise excluded from being required to be assigned under subdivision (a), the provision is against the public policy of this state and is unenforceable.] *OR*
-
-[RCW 49.44.140 of the Revised Code of Washington is as follows:
+>(b) To the extent a provision in an employment agreement purports to require an employee to assign an invention otherwise excluded from being required to be assigned under subdivision (a), the provision is against the public policy of this state and is unenforceable.] *OR* [RCW 49.44.140 of the Revised Code of Washington is as follows:
 
 >>(1) A provision in an employment agreement which provides that an employee shall assign or offer to assign any of the employee’s rights in an invention to the employer does not apply to an invention for which no equipment, supplies, facilities, or trade secret information of the employer was used and which was developed entirely on the employee’s own time, unless (a) the invention relates (i) directly to the business of the employer, or (ii) to the employer's actual or demonstrably anticipated research or development, or (b) the invention results from any work performed by the employee for the employer. Any provision which purports to apply to such an invention is to that extent against the public policy of this state and is to that extent void and unenforceable.
 
@@ -168,7 +167,7 @@ Further, I agree that for twelve (12) months from the date of this Certification
 
 **Date:**  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
-EMPLOYEE:
+**EMPLOYEE:**
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ (Print Employee’s Name)
 
