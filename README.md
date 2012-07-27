@@ -1,3 +1,5 @@
+##Description
+
 This form is designed to be used by the Company after initial consultation with counsel. Every employee and consultant (i.e., every service provider) should sign one, although there are different forms for use by employees vs. consultants. The Company should keep these in the person’s personnel file. Make sure it is filled out completely, including the Exhibits at the end of the document. If there is nothing to disclose on the Exhibit, have the person check the appropriate line and sign the Exhibit as well as the main agreement signature page. This is critical and will be the subject of careful due diligence by any serious investors.
 
 This legal document comes from the Start-Up Forms Library provided by the Emerging Companies Group at Orrick - an international law firm headquartered in San Francisco.  The entire Start-Up Forms Library consists of the following:
@@ -49,13 +51,17 @@ This legal document comes from the Start-Up Forms Library provided by the Emergi
   - 83(b) Election Form
   - 25102(o) Notice
 
+##Legal Liability
 
+This document should not be considered legal advice, and no attorney-client relationship is formed by your use of this document.  This information may not be suited for your specific situation.  Please consult an attorney to address your particular needs.  See the [Orrick] terms.
 
-- - - - - 
-
-If you have any documents you'd like to share on Github but don't want to be bothered with formatting it nicely in Markdown, please email it to our **Gmail account: paperwellcare**.  
+##Help Make Legal Documents Open-Source 
 
 We're [Paperwell.com] and we're trying to make quality legal documents a free, public resource.  
+
+If you have any documents you'd like to share on Github but don't want to be bothered with formatting it nicely in Markdown, please email it to our **Gmail account: paperwellcare**.  we'll do it for you.
+
 Thanks!
 
 [Paperwell.com]: http://www.paperwell.com
+[Orrick]: http://www.orrick.com/inc/NoticePublication.asp?sDocID=1946&sExt=doc
